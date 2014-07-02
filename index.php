@@ -4,7 +4,7 @@ require_once './config.php';
 include './lib/paginator.php';
 //include "./lib/lib.php";
 include("header.php");
-//$app=new App();
+//$app=new App(); 
 $results = $app->getAllSkus();
 //    echo "<pre>";
 //    print_r($results);
