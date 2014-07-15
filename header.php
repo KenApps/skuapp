@@ -1,7 +1,7 @@
 <?php
 require_once './config.php';
 ?>
-<!-- Testing cloud munch build -->
+<!-- Testing cloud munch build  -->
 <html>
     <head>
         <script type="text/javascript" src="<?= App::$baseUrl; ?>js/app.js"></script>
